@@ -1,0 +1,8 @@
+,value
+households processed,5566
+raw half-hourly rows,167817021
+missing / null readings,5560
+"duplicate (household, timestamp) rows",0
+negative readings (set to NaN),0
+first timestamp,2011-11-23 09:00:00
+last timestamp,2014-02-28 00:00:00

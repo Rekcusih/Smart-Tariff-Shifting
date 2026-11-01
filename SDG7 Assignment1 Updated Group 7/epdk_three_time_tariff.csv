@@ -1,0 +1,4 @@
+period,start_hour,end_hour,energy_tl_per_kwh,distribution_tl_per_kwh,total_tl_per_kwh_excl_tax,source_note
+day,6,17,1.950640,2.424900,4.375540,"Secondary web sources (2026 tables); VERIFY against official EPDK table for current quarter"
+peak,17,22,3.747551,2.424900,6.172451,"Secondary web sources (2026 tables); VERIFY against official EPDK table for current quarter"
+night,22,6,0.513656,2.424900,2.938556,"Secondary web sources (2026 tables); VERIFY against official EPDK table for current quarter"
